@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    background-color:#0dc5c8; 
+}
+.heading{
+    color:black;
+    font-size:80px;
+}
+.game{
+ height:54vmin;
+ width:52vmin;
+ margin-left:35%;
+ margin-top:5%;
+ display:flex;
+ flex-wrap:wrap;
+ gap:0.5vmin;
+
+}
+.box{
+    height:17vmin;
+    width:17vmin;
+    background-color: bisque;
+    border-radius: 20%;
+    align-content: center;
+    justify-items: center;
+    font-size:60px;
+    font-weight: bolder;
+}
+
